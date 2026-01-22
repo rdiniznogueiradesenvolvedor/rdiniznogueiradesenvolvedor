@@ -13,4 +13,15 @@ Atualmente estou aprendendo e criando projetos em:
 Conecte-se Comigo
 <p>
   <a href="https://www.linkedin.com/in/rodrigodnogueira">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-ln" />
+  </a>
+
+  <a href="https://www.instagram.com/rodrigodiniznog">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-insta" />
+  </a>
 </p>
+
+
+[![Rodrigo stats](https://github-readme-stats.vercel.app/api?username=rdiniznogueiradesenvolvedor)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdiniznogueiradesenvolvedor)](https://github.com/anuraghazra/github-readme-stats)
