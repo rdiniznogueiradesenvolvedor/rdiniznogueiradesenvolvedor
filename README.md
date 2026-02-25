@@ -22,6 +22,6 @@ Conecte-se Comigo
 </p>
 
 
-[![Rodrigo stats](https://github-readme-stats.vercel.app/api?username=rdiniznogueiradesenvolvedor)](https://github.com/anuraghazra/github-readme-stats)
+[Rodrigo stats](https://github-readme-stats.vercel.app/api?username=rdiniznogueiradesenvolvedor)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdiniznogueiradesenvolvedor)](https://github.com/anuraghazra/github-readme-stats)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdiniznogueiradesenvolvedor)](https://github.com/anuraghazra/github-readme-stats)
